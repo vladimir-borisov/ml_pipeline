@@ -1,0 +1,7 @@
+epochs: 1000
+batch_size: 4
+learning_rate: 0.001
+gpu_number: 0
+image_width: 300
+image_height: 300
+image_channels: 3
